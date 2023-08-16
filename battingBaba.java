@@ -3,6 +3,6 @@ class battingBaba{
 		int i=0;
 	}
 	int sixer(){
-	return 6;
+		return 6;
 	}
 }
